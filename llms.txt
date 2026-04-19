@@ -1,0 +1,68 @@
+# NeuroPause
+
+> NeuroPause es una aplicación gratuita de entrenamiento cognitivo diario para Android, sin publicidad, diseñada con principios de neurociencia cognitiva.
+
+## Resumen
+
+NeuroPause ofrece 25 ejercicios cortos (1 a 5 minutos) organizados en 5 ejes cognitivos fundamentales. Está diseñada para adultos mayores y cualquier persona que quiera mantener su cerebro activo. No es un juego, es un hábito.
+
+## Ejercicios y áreas cognitivas
+
+### Memoria (5 ejercicios)
+Estimula el hipocampo y la corteza prefrontal para codificar, consolidar y recuperar información.
+- Secuencias: reproducir secuencia de colores en orden creciente
+- La casa: contar cuántas personas quedan en una habitación
+- Memotest: encontrar pares de cartas boca abajo
+- Mahjong: encontrar y eliminar pares de fichas
+- Número del día: memorizar un número por la mañana y recordarlo horas más tarde
+
+### Atención (5 ejercicios)
+Trabaja las redes de atención sostenida y selectiva del córtex parietal posterior y el giro frontal inferior.
+- Cálculo mental: operaciones aritméticas contrarreloj
+- Velocidad visual: identificar estímulos entre distractores
+- Sopa de letras: encontrar palabras escondidas en la grilla
+- Globos: contar globos de colores que suben por pantalla
+- Buscaminas: descubrir el campo sin detonar minas
+
+### Función ejecutiva (5 ejercicios)
+El córtex prefrontal coordina razonamiento, planificación y control inhibitorio.
+- Test de Stroop: nombrar el color de la tinta, no la palabra
+- Razonamiento: identificar la palabra que no pertenece al grupo
+- Inhibición: responder solo a estímulos correctos
+- Analogías: completar relaciones lógicas entre palabras
+- Sudoku: completar tablero sin repetir números
+
+### Lenguaje (5 ejercicios)
+Mantiene activas las redes semánticas del lóbulo temporal izquierdo y el área de Broca.
+- Fluidez verbal: generar palabras de una categoría en 60 segundos
+- Sinónimos: identificar el sinónimo correcto
+- Antónimos: identificar el opuesto
+- Completar frase: elegir la palabra que completa la oración
+- Tutti Frutti: una letra, cinco categorías, 60 segundos
+
+### Perceptual-motor (5 ejercicios)
+Integración visoespacial y coordinación ojo-mano del córtex parietal posterior.
+- Reacción: tocar la pantalla al aparecer el estímulo
+- Rotación mental: identificar figuras rotadas
+- Seguimiento: tocar círculos ignorando la pelota en movimiento
+- Víbora: comer solo respuestas matemáticas correctas
+- Laberinto: encontrar la salida lo más rápido posible
+
+## Características principales
+- 25 ejercicios organizados en 5 ejes cognitivos
+- Racha diaria con sistema de logros y celebraciones animadas
+- Número del día: memoria diferida con refuerzo nocturno
+- Chiste del día (el humor también entrena el cerebro)
+- Notificaciones personalizadas por hora
+- Modo accesibilidad: se activa desde cualquier app
+- Estadísticas de evolución por eje cognitivo
+- Sin publicidad
+- Gratis en Google Play Store para Android
+
+## Información técnica
+- Plataforma: Android
+- Precio: Gratis
+- Publicidad: No tiene
+- Idioma: Español
+- Duración de sesión: 1 a 5 minutos
+- Público objetivo: Adultos mayores y público general interesado en salud cognitiva
